@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\bin\Debug\Tuan5_QuanLyPhongHoc.exe.config
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\bin\Debug\Tuan5_QuanLyPhongHoc.exe
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\bin\Debug\Tuan5_QuanLyPhongHoc.pdb
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\obj\Debug\Tuan5_QuanLyPhongHoc.frmMain.resources
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\obj\Debug\Tuan5_QuanLyPhongHoc.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\obj\Debug\Tuan5_QuanLyPhongHoc.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\obj\Debug\Tuan5_QuanLyPhongHoc.exe
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\obj\Debug\Tuan5_QuanLyPhongHoc.pdb
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\obj\Debug\Tuan5_QuanLyPhongHoc.frmQuanLyPhongHoc.resources
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\obj\Debug\Tuan5_QuanLyPhongHoc.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\obj\Debug\Tuan5_QuanLyPhongHoc.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\obj\Debug\Tuan5_QuanLyPhongHoc.frmTimKiemAuto.resources
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan5_QuanLyPhongHoc\obj\Debug\Tuan5_QuanLyPhongHoc.frmDuLieuHonLoan.resources

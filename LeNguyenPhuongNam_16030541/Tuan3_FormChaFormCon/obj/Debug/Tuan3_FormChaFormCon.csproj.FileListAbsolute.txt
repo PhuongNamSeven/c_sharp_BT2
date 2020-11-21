@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\bin\Debug\Tuan3_FormChaFormCon.exe.config
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\bin\Debug\Tuan3_FormChaFormCon.exe
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\bin\Debug\Tuan3_FormChaFormCon.pdb
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\obj\Debug\Tuan3_FormChaFormCon.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\obj\Debug\Tuan3_FormChaFormCon.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\obj\Debug\Tuan3_FormChaFormCon.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\obj\Debug\Tuan3_FormChaFormCon.exe
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\obj\Debug\Tuan3_FormChaFormCon.pdb
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\obj\Debug\Tuan3_FormChaFormCon.frmDangNhap.resources
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\obj\Debug\Tuan3_FormChaFormCon.frmMain.resources
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\obj\Debug\Tuan3_FormChaFormCon.frm1.resources
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan3_FormChaFormCon\obj\Debug\Tuan3_FormChaFormCon.frm2.resources

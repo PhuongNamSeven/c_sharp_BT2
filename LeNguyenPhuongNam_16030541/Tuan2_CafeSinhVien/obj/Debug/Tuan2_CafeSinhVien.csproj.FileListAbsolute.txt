@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan2_CafeSinhVien\bin\Debug\Tuan2_CafeSinhVien.exe.config
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan2_CafeSinhVien\bin\Debug\Tuan2_CafeSinhVien.exe
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan2_CafeSinhVien\bin\Debug\Tuan2_CafeSinhVien.pdb
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.frmQLCafe.resources
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.exe
+C:\Users\ASUS\Desktop\C_Sharp_BaiTap\LeNguyenPhuongNam_16030541\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.pdb
